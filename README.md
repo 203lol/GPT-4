@@ -1,3 +1,4 @@
+This repository contains the frontend implementation for GPT-4, an advanced AI language model developed by OpenAI.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
